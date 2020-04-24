@@ -39,15 +39,15 @@ As a demonstration of the capabilities of *v*LUME we show four videos correspond
 
 ## The Community
 
-*v*LUME will, hopefully, nucleate communities of SMLM researchers by facilitating active **collaboration**, development of **bespoke analysis** features (open-source C# plug-ins) and the **sharing** of these tools through two GitHub repositories.
+*v*LUME will hopefully nucleate communities of SMLM researchers by facilitating active **collaboration**, development of **bespoke analysis** features (open-source C# plug-ins) and the **sharing** of these tools through two GitHub repositories.
 
 As previously anounced this is first GitHub repository that houses the base program builds ([https://github.com/lumevr/vLume/releases](https://github.com/lumevr/vLume/releases)), through which future revisions of the *v*LUME will be released, with updated additional features and bug fixes. The community is able to suggest improvements and inform the developers of any bugs that they may encounter while running *v*LUME using the default issues report tab in GitHub. In the second repository ([https://github.com/lumevr/vLume_OpenSourcePlugins](https://github.com/lumevr/vLume_OpenSourcePlugins)) is were the community can participate in the  . To sum up:
 
-- The firt repo (this one) is a forum were to discuss about the main features of the **core** package of ***v*LUME** and were bugs and other issues can be reported.
+- The first repo (this one) is a forum to discuss the main features of the **core** package of ***v*LUME** and where bugs and other issues can be reported.
 
 	> Please use the Issues tag below the repo name.
 	
-- The second repo is were the **open source scripts**, were besides the forum, the people can ans are encouraged to collaborate in improving and adding functionalities to vLUME by cloning and pull requesting (Pull requests tag).
+- The second repo is the **open source scripts**, where besides the forum, the people are encouraged to collaborate in improving and adding functionalities to *v*LUME by cloning and pull requesting (Pull requests tag).
 
 	> Please refer to the README of the Scripts repository for further information.
 
